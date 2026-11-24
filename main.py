@@ -15,7 +15,9 @@ words saved for the end, (5) deadpan delivery, a straight face
 throughout. The context window running out mid-deadline is the
 agent's own condition, not a human's; summarising the deadline as
 "probably fine" and moving on is the punchline, and it lands on the
-last words with nothing explained after them.
+last words with nothing explained after them. The verb matters:
+an agent summarises, a human forgets — "summarized" keeps the
+excuse inside the machine, which is what criterion 3 rewards.
 """
 
 import os
